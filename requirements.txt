@@ -1,0 +1,5 @@
+numpy
+imutils
+matplotlib
+easyocr
+logger
