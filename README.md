@@ -6,7 +6,10 @@ ALPR — This is a project that will automatically identify the license number o
 > The idea of the project came to three people in 2022 who are participating in the Hardware Startup Incubator. As part of the project, participants are required to create a project where [Raspberry PI](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) will be used.
 
 
-## Training Process
+
+
+
+# 🧠 Training Data
 <div style="display:flex">
   <img src="https://i.imgur.com/MlWifi9.png" alt="Test #01" width="260px" />
   <img src="https://i.imgur.com/bNbUpvk.png" alt="Test #02" width="260px" />
@@ -17,3 +20,5 @@ ALPR — This is a project that will automatically identify the license number o
   <img src="https://i.imgur.com/DWcRd12.png" alt="Test #05" width="260px" /> 
   <img src="https://i.imgur.com/F8B7SJm.png" alt="Test #06" width="260px" /> 
 </div>
+
+
