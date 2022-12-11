@@ -9,7 +9,7 @@ ALPR — This is a project that will automatically identify the license number o
 
 
 
-# 🧠 Training Data
+# 🧠 Results
 <div style="display:flex">
   <img src="https://i.imgur.com/MlWifi9.png" alt="Test #01" width="260px" />
   <img src="https://i.imgur.com/bNbUpvk.png" alt="Test #02" width="260px" />
